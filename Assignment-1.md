@@ -1,4 +1,5 @@
 # Bloomfield-Garfield Corporation Custom Map 
+#### [JSON Code](JSONcode.json.md)
 
 The Bloomfield-Garfield Corporation is a community-based organization that seeks to revitalize the Bloomfield and Garfield neighborhoods. They have many programs, including one that helps build and maintain affordable housing. I have admired their work from afar and decided to use them as the subject of my work. 
 
@@ -19,5 +20,3 @@ After coming up with my palette, I played around with the colors. I tested them 
 In the end, I was able to incorporate all four colors from my palette. The two shades of blue dominate the color scheme. However, I integrate the green and orange colors subtly. I used the green as the color for parks and orange as the color of freeways. I enjoy the contrast of the blue and orange, but I didn't want to overwhelm the eye with its effect. 
 
 ![screenshot of map design](https://user-images.githubusercontent.com/78521868/159192526-48381922-dc56-4970-92b5-2440b575950f.PNG)
-
-#### [JSON Code](JSONcode.json.md)
