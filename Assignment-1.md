@@ -7,6 +7,9 @@ To help develop the color palette, I visited the [organization's website](https:
 ###  Bloomfield-Garfield Corporation's Logo
 ![bgc-logo-horizontal-300](https://user-images.githubusercontent.com/78521868/159191769-90191682-3a52-49fb-896e-14dd6e59f6df.png)
 
+### Color Palette from Canvas
+![bgc-color-palette](https://user-images.githubusercontent.com/78521868/159191876-5acc96f5-98ac-42d9-806c-760d806c0ccd.PNG)
+
 #### [JSON Code](JSONcode.json.md)
 
 I made a ma
