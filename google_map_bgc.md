@@ -33,7 +33,7 @@
       }
 // Don't forget your API Key below vv
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCJZevp7f89xJajMRoaN7DNDce1jIJdjLs&callback=initMap"
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCJZevp7f89xJajMRoaN7DNDce1jIJdjLs"
     async defer></script>
   </body>
 </html>
