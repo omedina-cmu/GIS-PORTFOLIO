@@ -1,0 +1,16 @@
+### Visualization
+
+I learned how to use the data engineering tools in ArcGIS Pro to visualize and analyze data that I can apply to future work. For example, I can see myself using the local bivariate relationships tool to understand the relationship between the variables I am studying. 
+
+Also,  the enrichment tool is powerful. It allows you to pull in all sorts of data from ESRI to enrich your dataset, avoiding the headache of finding the data, cleaning it, and performing data join. So much about GIS is about knowing what is possible, and the data science capabilities are potent tools for analysis and creating better efficiency.  
+
+#### Variables that Impact Voter Turnout
+Visualizing the variables that are strong indicators of voter turnout.
+![data viz](https://user-images.githubusercontent.com/78521868/165991002-3c221e29-acfd-4c35-b3b6-43bb213d3c57.PNG)
+
+### Predictive Modeling
+I learned how to use the Forest-Based Classification and Aggregation tool to build a model. The iterative process lends itself to exploratory analysis and constantly evaluates if particular variables are more meaningful than others. 
+
+#### Predicting Voter Turnout
+After training a model, we can predict voter turnout. 
+![prediction](https://user-images.githubusercontent.com/78521868/165991307-98118bc6-d5af-458e-822b-d6ced0f71ac2.PNG)
