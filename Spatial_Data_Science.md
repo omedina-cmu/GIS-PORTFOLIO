@@ -1,4 +1,8 @@
-### Visualization
+[Back to Portfolio](README.md)
+
+# Spatial Data Science
+
+#### Visualization
 
 I learned how to use the data engineering tools in ArcGIS Pro to visualize and analyze data that I can apply to future work. For example, I can see myself using the local bivariate relationships tool to understand the relationship between the variables I am studying. Also,  the enrichment tool is powerful resource. It allows you to pull in all sorts of data from ESRI to "enrich" your dataset, avoiding the headache of finding the data, cleaning it, and performing a data join. So much about GIS is about knowing what is possible, and the data science capabilities are potent resources for analysis and creating more efficient workflows.  
 
